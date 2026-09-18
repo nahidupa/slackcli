@@ -200,8 +200,8 @@ export function createAuthCommand(): Command {
 
         console.log(chalk.bold('\n🔍 Parsing cURL command...\n'));
 
-        // Extract workspace URL
-        const urlMatch = curlInput.match(/curl\s+'?(https?:\/\/([^.]+)\.slack\.com[^'"\s]*)/);
+        // Extract workspace URL - handle both "curl 'https://..." and "curl --url 'https://..." formats
+        const urlMatch = curlInput.match(/(https?:\/\/([^.]+)\.slack\.com)/);
         if (!urlMatch) {
           throw new Error('Could not find Slack workspace URL in cURL command');
         }
@@ -223,7 +223,8 @@ export function createAuthCommand(): Command {
         const dataMatch = curlInput.match(/--data-raw\s+\$?'([^']+)'|--data-raw\s+\$?"([^"]+)"|--data\s+\$?'([^']+)'|--data\s+\$?"([^"]+)"/);
         const dataContent = dataMatch ? (dataMatch[1] || dataMatch[2] || dataMatch[3] || dataMatch[4]) : '';
 
-        const xoxcMatch = dataContent.match(/name="token".*?(xoxc-[a-zA-Z0-9-]+)/);
+        // Handle both regular form data and multipart form data with \r\n
+        const xoxcMatch = dataContent.match(/(?:name="token"[\s\S]*?|token[=:][\s]*)(xoxc-[a-zA-Z0-9-]+)/);
         if (!xoxcMatch) {
           throw new Error('Could not find xoxc token in request data');
         }

@@ -1,0 +1,29 @@
+
+🔍 Search Results (5 messages):
+
+1. #rta-poc-dbx-hightouch-hellofresh
+   12/11/2025, 7:54:30 PM
+   nuno.capeta: 1. What's the network configuration of your cluster? How would you give Hightouch access? Can we use IP whitelisting for the POC? - Yes  , we will share the details tomorrow morning 
+2. <@U04BTJ6P5LP|Vikram Singh Chandel> / <@U02U6790H3N|Nahid> could you please confirm ( if you also have at hands the staging details could you share ? ) 
+   https://hellofresh.slack.com/archives/C09T925Q6CQ/p1765479270097019?thread_ts=1765361323.981229
+
+2. #mpdm-nahidul.kibria--jorge.bo--joshua.edokpayi-1
+   12/11/2025, 3:42:29 PM
+   jorge.bo: <@U02U6790H3N|Nahid> the api call is working,
+   https://hellofresh.slack.com/archives/C06AVFKRJHW/p1765464149377839
+
+3. #mpdm-nahidul.kibria--jorge.bo--joshua.edokpayi-1
+   12/11/2025, 12:20:46 PM
+   jorge.bo: <@U02U6790H3N|Nahid> i've merged everything, however i don't see the buttons, am i missing anything?
+   https://hellofresh.slack.com/archives/C06AVFKRJHW/p1765452046840629?thread_ts=1765359196.985779
+
+4. #foundations-data-support
+   12/11/2025, 10:28:40 AM
+   carlos.vido: if they are only having issues with one CDC topic and they all come from the same DB, it's probably not that <@U02U6790H3N|Nahid>
+   https://hellofresh.slack.com/archives/C02GK79566B/p1765445320887599?thread_ts=1765361737.841339
+
+5. #investigation-57579-11-12-25
+   12/11/2025, 8:28:52 AM
+   nahidul.kibria: <@ULR0SV090> set_ic <@U02U6790H3N|Nahid> 
+   https://hellofresh.slack.com/archives/C0A2TQBH2SZ/p1765438132765169
+

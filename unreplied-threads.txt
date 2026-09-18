@@ -1,0 +1,172 @@
+Unreplied/Overlooked Threads in Channel
+=========================================
+Channel ID: C02GK79566B
+Total messages checked: 100
+Unreplied/Overlooked threads: 15
+
+1. [5.12.2025, 12:45:46]
+   Replies: 1
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U024VFG4K44>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/prefect-databricks-infrastructure/pull/33>
+
+*Details*:
+Hi Team, Extending the spark version to p...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1764935146860529
+
+2. [8.12.2025, 14:06:32]
+   Replies: 2
+   User: U018UCEFJ65
+   Text: 
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765199192993319
+
+3. [8.12.2025, 22:31:48]
+   Replies: 2
+   User: U018UCEFJ65
+   Text: 
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765229508647289
+
+4. [9.12.2025, 08:36:50]
+   Replies: 2
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U03V9AN4KA4>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/schema-registry/pull/3341>
+
+*Details*:
+<https://hellofresh.atlassian.net/browse/CIF-4312> - kind...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765265810818589
+
+5. [9.12.2025, 09:34:58]
+   Replies: 1
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U08GSEUBP5J>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/akhq/pull/468>
+
+*Details*:
+Good morning, please aprove schema version updating for AKHQ
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765269298457239
+
+6. [9.12.2025, 17:15:39]
+   Replies: 2
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U06SLTJJNTT>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/bi-infrastructure/pull/4509>
+
+*Details*:
+Could you please upload the ssh pub keys to valut. We (...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765296939779389
+
+7. [10.12.2025, 09:07:28]
+   Replies: 2
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U08PVHH6V6D>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/hf-kubernetes/pull/10156>
+
+*Details*:
+Install external-secrets-operator on staging and ahoy k8s ...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765354048566939
+
+8. [10.12.2025, 09:50:07]
+   Replies: 2
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U03QGA55YV7>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/df-infrastructure/pull/1448>
+
+*Details*:
+allow hf-ma to access limesync bucket
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765356607649389
+
+9. [10.12.2025, 10:52:30]
+   Replies: 2
+   User: U018UCEFJ65
+   Text: 
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765360350396619
+
+10. [10.12.2025, 12:30:08]
+   Replies: 1
+   User: U02AEU8RSG0
+   Text: Hi Team,
+
+~I found this channel after following a chain of archived Slack channels (<#CBGPDBEBZ|> -> <#CS28ER32A|>  -> <#C01UYQVJCUB|>  -> here) , so I fully expect that nobody here has the context I ...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765366208458879
+
+11. [10.12.2025, 14:42:44]
+   Replies: 2
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U06SLTJJNTT>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/bi-infrastructure/pull/4511>
+
+*Details*:
+Team, We need your help urgently. When we created the b...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765374164333899
+
+12. [10.12.2025, 15:32:45]
+   Replies: 2
+   User: U06Q42EAUMP
+   Text: :rotating_light:*[Release -  Pausing Consecutively Failing Pipelines in Tardis and Limesync]* :alert:
+TL;DR We will soon be releasing a feature that will automatically pause pipelines after a pre-defi...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765377165396239
+
+13. [11.12.2025, 13:34:28]
+   Replies: 2
+   User: U018UCEFJ65
+   Text: 
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765456468312949
+
+14. [12.12.2025, 11:44:15]
+   Replies: 1
+   User: Unknown
+   Text: New PR Review Request:
+
+*From*:
+<@U01EPGWGTFW>
+
+*Link to Pull Request:* 
+<https://github.com/hellofresh/bi-infrastructure/pull/4474>
+
+*Details*:
+Hey, Can we get an approval here please? We're creating...
+   Link: https://hellofresh.slack.com/archives/C02GK79566B/p1765536255382619
+
+15. [12.12.2025, 11:53:02]
+   Replies: 1
+   User: Unknown
+   Text: New PR Review Request:
+
+
+
